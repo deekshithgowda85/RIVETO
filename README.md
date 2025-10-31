@@ -8,7 +8,7 @@
   
 --------
 
-## 🚀 Overview
+## 🚀 Overview 
 
 **RIVETO** is a modern, fullstack web application built for scalability, advanced analytics, and seamless payment integration.  
 It features a robust admin panel for management, user tracking, advanced UI components, and secure file/image upload via Cloudinary.
