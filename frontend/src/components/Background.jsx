@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
-import gsap from 'gsap';
+import gsap from 'gsap'; 
 import background1 from '../assets/ban7.jpg';
 import background2 from '../assets/ban9.png';
 import background3 from '../assets/ban10.png';
